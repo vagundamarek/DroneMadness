@@ -1,0 +1,1308 @@
+﻿Log file open, 03/12/21 18:51:04
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DroneMadness
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.328174
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: DebugGame
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.12-17.51.05:005][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.12-17.51.05:005][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.12-17.51.05:005][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Engine.ini]
+[2021.03.12-17.51.05:005][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.12-17.51.05:005][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Engine.ini]
+[2021.03.12-17.51.05:005][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Engine.ini]
+[2021.03.12-17.51.05:005][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.12-17.51.05:005][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Engine.ini]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.12-17.51.05:006][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.12-17.51.05:007][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.12-17.51.05:007][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.12-17.51.05:007][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.12-17.51.05:007][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.12-17.51.05:007][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.12-17.51.05:007][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.12-17.51.05:007][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.12-17.51.05:007][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Engine.ini]
+[2021.03.12-17.51.05:007][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Engine.ini]
+[2021.03.12-17.51.05:035][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:035][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.12-17.51.05:035][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.12-17.51.05:035][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:035][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.12-17.51.05:035][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:035][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.12-17.51.05:036][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.12-17.51.05:037][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.12-17.51.05:038][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.12-17.51.05:039][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.12-17.51.05:040][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.12-17.51.05:041][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:041][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.12-17.51.05:041][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.12-17.51.05:041][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.12-17.51.05:041][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.12-17.51.05:041][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.12-17.51.05:041][  0]LogHAL: Display: Platform has ~ 16 GB [17125621760 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.12-17.51.05:041][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.12-17.51.05:041][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:041][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.12-17.51.05:041][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.12-17.51.05:041][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:041][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.12-17.51.05:041][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:041][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.12-17.51.05:041][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.12-17.51.05:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.12-17.51.05:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.12-17.51.05:044][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.12-17.51.05:045][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Scalability.ini]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.12-17.51.05:046][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.12-17.51.05:047][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.12-17.51.05:047][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.12-17.51.05:047][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.12-17.51.05:047][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.12-17.51.05:047][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.12-17.51.05:047][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Config/Windows/Engine.ini]
+[2021.03.12-17.51.05:047][  0]LogInit: Computer: DESKTOP-5FVA9LM
+[2021.03.12-17.51.05:047][  0]LogInit: User: Marek
+[2021.03.12-17.51.05:048][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.12-17.51.05:048][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.12-17.51.05:048][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.12-17.51.05:048][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.12-17.51.05:048][  0]LogMemory: Process Physical Memory: 131.74 MB used, 131.75 MB peak
+[2021.03.12-17.51.05:048][  0]LogMemory: Process Virtual Memory: 112.28 MB used, 112.28 MB peak
+[2021.03.12-17.51.05:048][  0]LogMemory: Physical Memory: 11193.03 MB used,  5139.23 MB free, 16332.27 MB total
+[2021.03.12-17.51.05:048][  0]LogMemory: Virtual Memory: 134215256.00 MB used,  2472.18 MB free, 134217728.00 MB total
+[2021.03.12-17.51.05:064][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.12-17.51.05:264][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.12-17.51.05:265][  0]LogInit: Using OS detected language (en-US).
+[2021.03.12-17.51.05:265][  0]LogInit: Using OS detected locale (en-GB).
+[2021.03.12-17.51.05:273][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.12-17.51.05:479][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.12-17.51.05:507][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.12-17.51.05:568][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.12-17.51.05:568][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.12-17.51.05:745][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.12-17.51.05:745][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.12-17.51.05:745][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.12-17.51.05:745][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.12-17.51.05:858][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.03.12-17.51.05:858][  0]LogD3D11RHI:       8088/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.12-17.51.05:864][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.12-17.51.05:864][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.12-17.51.05:864][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.12-17.51.05:874][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.12-17.51.05:874][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.12-17.51.05:875][  0]LogWindows: EnumDisplayDevices:
+[2021.03.12-17.51.05:875][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.03.12-17.51.05:875][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.03.12-17.51.05:875][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.12-17.51.05:876][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.12-17.51.05:876][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.12-17.51.05:876][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.03.12-17.51.05:876][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2021.03.12-17.51.05:876][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2021.03.12-17.51.05:876][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.03.12-17.51.05:942][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.12-17.51.05:942][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.12-17.51.05:942][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.12-17.51.05:967][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.12-17.51.05:971][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.12-17.51.06:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.12-17.51.06:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.12-17.51.06:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.12-17.51.06:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.12-17.51.06:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.12-17.51.06:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.12-17.51.06:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.12-17.51.06:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.12-17.51.06:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.12-17.51.06:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.12-17.51.06:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.12-17.51.06:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.12-17.51.06:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.12-17.51.06:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.12-17.51.06:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.12-17.51.06:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.12-17.51.06:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.12-17.51.06:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.12-17.51.06:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.12-17.51.06:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.12-17.51.06:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.12-17.51.06:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.12-17.51.06:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.12-17.51.06:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.12-17.51.06:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.12-17.51.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.12-17.51.06:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.12-17.51.06:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.12-17.51.06:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.12-17.51.06:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.12-17.51.06:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.12-17.51.06:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.12-17.51.06:528][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.12-17.51.06:542][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.12-17.51.06:647][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.12-17.51.06:647][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Intermediate/Shaders/WorkingDirectory/6224/).
+[2021.03.12-17.51.06:647][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Marek/AppData/Local/Temp/UnrealShaderWorkingDir/3CED3FB6429D8CC872BC708D5363989A/'.
+[2021.03.12-17.51.06:648][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2021.03.12-17.51.07:477][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.12-17.51.07:524][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/Marek/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.12-17.51.07:524][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Marek/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.12-17.51.07:524][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.12-17.51.07:524][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.12-17.51.07:525][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.12-17.51.07:525][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.12-17.51.07:539][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.12-17.51.07:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.12-17.51.07:539][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.12-17.51.07:555][  0]LogDerivedDataCache: Speed tests for C:/Users/Marek/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.03.12-17.51.07:555][  0]LogDerivedDataCache: Display: Performance to C:/Users/Marek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=228.56MBs, RandomWriteSpeed=84.19MBs. Assigned SpeedClass 'Local'
+[2021.03.12-17.51.07:556][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Marek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.12-17.51.07:556][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.12-17.51.07:557][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.12-17.51.07:610][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.12-17.51.07:610][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.12-17.51.07:635][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2021.03.12-17.51.07:886][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.12-17.51.07:886][  0]LogInit: Active device profile: [00000226B9CF9E00][00000226B853AF80 49] Windows
+[2021.03.12-17.51.07:886][  0]LogInit: Profiles: [00000226B9CF9E00][00000226B853AF80 49] Windows, [00000226B9CC2400][00000226BA76F100 49] WindowsNoEditor, [00000226B9CFB800][00000226BA773280 49] WindowsServer, [00000226B9CC2100][00000226BA777400 49] WindowsClient, [00000226B9CFAD00][00000226BA76B540 49] IOS, [00000226B9CC0900][00000226BA77B680 49] iPadAir, [00000226B9CFBB00][00000226BA77F7C0 49] iPadAir2, [00000226B9C6B200][00000226BA78BA40 49] IPadPro, [00000226B9C6B300][00000226BA783A80 49] iPadAir3, [00000226B9CF8200][00000226BA78FC00 49] iPadAir4, [00000226B9C6B500][00000226BA7920C0 49] iPadMini2, [00000226B9CF8E00][00000226BA796240 49] iPadMini3, [00000226B9C69400][00000226BA79A3C0 49] iPadMini4, [00000226B9CF9000][00000226BA79E540 49] iPadMini5, [00000226B9CD2B00][00000226BA7A6800 49] iPhone6, [00000226B9CD2C00][00000226BA7A2840 49] iPodTouch6, [00000226B9C6BC00][00000226BA7AEB00 49] iPhone7, [00000226B9C6BB00][00000226BA7AAB40 49] iPodTouch7, [00000226B9CD0E00][00000226BA7B2CC0 49] iPhone5S, [00000226B9C6BD00][00000226BA7B6E40 49] iPhone6Plus, [00000226B9CD1200][00000226BA7BAFC0 49] iPhone6S, [00000226B9C6A800][00000226BA7BF140 49] iPhone6SPlus, [00000226B9CD2D00][00000226BA7C32C0 49] iPhone7Plus, [00000226B9C6B800][00000226BA7C7440 49] iPhoneSE, [00000226B9CD3200][00000226BA787580 49] iPhone8, [00000226B9C69600][00000226BA7CB6C0 49] iPhone8Plus, [00000226B9CD1F00][00000226BA7CF800 49] iPhoneX, [00000226B9C69D00][00000226BA7D3940 49] iPhoneXS, [00000226B9CD0300][00000226BA7DBAC0 49] iPhoneXSMax, [00000226B9C68600][00000226BA7DFC40 49] iPhoneXR, [00000226B9CD2500][00000226BA7E2100 49] iPhone11, [00000226B9C6A500][00000226BA7E6280 49] iPhone11Pro, [00000226B9CD0600][00000226BA7EA400 49] iPhone11ProMax, [00000226B9C69C00][00000226BA7EE580 49] iPhoneSE2, [00000226B9CD1400][00000226BA7F2700 49] iPhone12Mini, [00000226B9C69100][00000226BA7F6880 49] iPhone12, [00000226B9CD3400][00000226BA7FAA00 49] iPhone12Pro, [00000226B9C68200][00000226BA7FEB80 49] iPhone12ProMax, [00000226B9CD1B00][00000226BA802D00 49] iPadPro105, [00000226B9CD3600][00000226BA806E80 49] iPadPro129, [00000226B9CC1D00][00000226BA80B000 49] iPadPro97, [00000226B9CD0D00][00000226BA80F180 49] iPadPro2_129, [00000226B9CC2800][00000226BA813300 49] iPad5, [00000226B9CD0500][00000226BA817480 49] iPad6, [00000226B9CC0B00][00000226BA81B600 49] iPad7, [00000226B9CD3800][00000226BA7D7740 49] iPad8, [00000226B9CC1200][00000226BA81F880 49] iPadPro11, [00000226B9CD3500][00000226BA8239C0 49] iPadPro2_11, [00000226B9CC0700][00000226BA82BB40 49] iPadPro3_129, [00000226B9CC2500][00000226BA82FCC0 49] iPadPro4_129, [00000226B9C6B700][00000226BA832180 49] AppleTV, [00000226B9CC0300][00000226BA836300 49] AppleTV4K, [00000226B9C6B400][00000226BA83A480 49] TVOS, [00000226B9CC1F00][00000226BA83E600 49] Mac, [00000226B9C68100][00000226BA842780 49] MacClient, [00000226B9CD1A00][00000226BA846900 49] MacNoEditor, [00000226B9C68D00][00000226BA84AA80 49] MacServer, [00000226B9CD1D00][00000226BA84EC00 49] Linux, [00000226B9C68F00][00000226BA852D80 49] LinuxNoEditor, [00000226B9CD0800][00000226BA856F00 49] LinuxAArch64NoEditor, [00000226B9C6A300][00000226BA85B080 49] LinuxClient, [00000226B9CD2800][00000226BA85F200 49] LinuxAArch64Client, [00000226B9C68C00][00000226BA863380 49] LinuxServer, [00000226B9CD3900][00000226BA867500 49] LinuxAArch64Server, [00000226B9C68500][00000226BA86B680 49] Android, [00000226B9CD2F00][00000226BA8277C0 49] Android_Low, [00000226B9C6A600][00000226BA86F900 49] Android_Mid, [00000226B9CD1000][00000226BA873A40 49] Android_High, [00000226B9C6A200][00000226BA877B80 49] Android_Default, [00000226B9CD0A00][00000226BA87FD00 49] Android_Adreno4xx, [00000226B9C69700][00000226BA8821C0 49] Android_Adreno5xx_Low, [00000226B9CD0100][00000226BA886340 49] Android_Adreno5xx, [00000226B9C69000][00000226BA88A4C0 49] Android_Adreno6xx, [00000226B9CD2A00][00000226BA88E640 49] Android_Adreno6xx_Vulkan, [00000226B9C6AD00][00000226BA8927C0 49] Android_Mali_T6xx, [00000226B9CD3300][00000226BA896940 49] Android_Mali_T7xx, [00000226B9C68A00][00000226BA89AAC0 49] Android_Mali_T8xx, [00000226B9CD3000][00000226BA89EC40 49] Android_Mali_G71, [00000226B9C68900][00000226BA8A2DC0 49] Android_Mali_G72, [00000226B9CD0C00][00000226BA8A6F40 49] Android_Mali_G72_Vulkan, [00000226B9C6A700][00000226BA8AB0C0 49] Android_Mali_G76, [00000226B9CD1700][00000226BA8AF240 49] Android_Mali_G76_Vulkan, [00000226B9C68700][00000226BA8B33C0 49] Android_Mali_G77, [00000226B9CD2300][00000226BA8B7540 49] Android_Mali_G77_Vulkan, [00000226B9C6A100][00000226BA8BB6C0 49] Android_Vulkan_SM5, [00000226B9CD1900][00000226BA87B800 49] Android_PowerVR_G6xxx, [00000226B9C6A400][00000226BA8BF940 49] Android_PowerVR_GT7xxx, [00000226B9CD1500][00000226BA8C3A80 49] Android_PowerVR_GE8xxx, [00000226B9C6AF00][00000226BA8C7BC0 49] Android_PowerVR_GM9xxx, [00000226B9CD0400][00000226BA8CFD40 49] Android_PowerVR_GM9xxx_Vulkan, [00000226B9C69900][00000226BA8D2200 49] Android_TegraK1, [00000226B9CD2400][00000226BA8D6380 49] Android_Unknown_Vulkan, [00000226B9C6AB00][00000226BA8DA500 49] Lumin, [00000226B9CD0200][00000226BA8DE680 49] Lumin_Desktop, [00000226B9C69800][00000226BA8E2800 49] HoloLens, 
+[2021.03.12-17.51.08:011][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.12-17.51.08:011][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.12-17.51.08:011][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.12-17.51.08:011][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.12-17.51.08:011][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.12-17.51.08:046][  0]LogNetVersion: DroneMadness 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 240175543)
+[2021.03.12-17.51.08:464][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.12-17.51.08:533][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.068697 seconds
+[2021.03.12-17.51.08:540][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.12-17.51.08:540][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.12-17.51.08:540][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.12-17.51.08:755][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.12-17.51.08:761][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.12-17.51.09:164][  0]SourceControl: Source control is disabled
+[2021.03.12-17.51.09:164][  0]SourceControl: Source control is disabled
+[2021.03.12-17.51.09:169][  0]SourceControl: Source control is disabled
+[2021.03.12-17.51.09:173][  0]SourceControl: Source control is disabled
+[2021.03.12-17.51.09:187][  0]SourceControl: Source control is disabled
+[2021.03.12-17.51.09:196][  0]LogUProjectInfo: Found projects:
+[2021.03.12-17.51.09:292][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.12-17.51.09:312][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.12-17.51.09:312][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.12-17.51.09:615][  0]LogOcInput: OculusInput pre-init called
+[2021.03.12-17.51.09:629][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.12-17.51.09:629][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.12-17.51.09:640][  0]LogCollectionManager: Loaded 0 collections in 0.001847 seconds
+[2021.03.12-17.51.09:721][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Saved/Collections/' took 0.00s
+[2021.03.12-17.51.09:721][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Content/Developers/Marek/Collections/' took 0.00s
+[2021.03.12-17.51.09:721][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Content/Collections/' took 0.00s
+[2021.03.12-17.51.09:721][  0]LogEngine: Initializing Engine...
+[2021.03.12-17.51.09:722][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.12-17.51.09:722][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.12-17.51.09:723][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.12-17.51.09:823][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.12-17.51.09:831][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.12-17.51.09:843][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.12-17.51.09:848][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.12-17.51.09:848][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.12-17.51.09:848][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-17.51.09:848][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-17.51.09:848][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-17.51.09:849][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-17.51.09:849][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-17.51.09:849][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-17.51.09:849][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-17.51.09:849][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-17.51.09:849][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-17.51.09:849][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-17.51.09:868][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-17.51.09:868][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-17.51.09:929][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.03.12-17.51.09:933][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-17.51.09:935][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-17.51.09:935][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-17.51.09:936][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-17.51.09:936][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-17.51.09:936][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.12-17.51.09:938][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-17.51.09:938][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-17.51.09:939][  0]LogInit: FAudioDevice initialized.
+[2021.03.12-17.51.09:939][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.12-17.51.09:939][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.12-17.51.10:618][  0]LogDerivedDataCache: Saved boot cache 0.68s 78MB C:/Users/Marek/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.12-17.51.10:623][  0]LogInit: Texture streaming: Enabled
+[2021.03.12-17.51.10:639][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.12-17.51.10:648][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.12-17.51.10:648][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.12-17.51.10:650][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.12-17.51.10:689][  0]LogInit: Transaction tracking system initialized
+[2021.03.12-17.51.10:720][  0]BlueprintLog: New page: Editor Load
+[2021.03.12-17.51.10:816][  0]LocalizationService: Localization service is disabled
+[2021.03.12-17.51.10:850][  0]TimingProfiler: Initialize
+[2021.03.12-17.51.10:851][  0]TimingProfiler: OnSessionChanged
+[2021.03.12-17.51.10:851][  0]LoadingProfiler: Initialize
+[2021.03.12-17.51.10:851][  0]LoadingProfiler: OnSessionChanged
+[2021.03.12-17.51.10:851][  0]NetworkingProfiler: Initialize
+[2021.03.12-17.51.10:851][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.12-17.51.10:851][  0]MemoryProfiler: Initialize
+[2021.03.12-17.51.10:851][  0]MemoryProfiler: OnSessionChanged
+[2021.03.12-17.51.11:022][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.12-17.51.11:022][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.12-17.51.11:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Content/' took 0.01s
+[2021.03.12-17.51.11:389][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.12-17.51.11:392][  0]SourceControl: Source control is disabled
+[2021.03.12-17.51.11:392][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.692
+[2021.03.12-17.51.11:392][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Content/TwinStickCPP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.12-17.51.11:393][  0]LightingResults: New page: Lighting Build
+[2021.03.12-17.51.11:393][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-17.51.11:394][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-17.51.11:394][  0]MapCheck: New page: Map Check
+[2021.03.12-17.51.11:394][  0]LightingResults: New page: Lighting Build
+[2021.03.12-17.51.11:401][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.12-17.51.11:470][  0]LogTexture: Display: Building textures: DeprecatedTexture7E7C5F364849CA5579B47B8A55ADB97D (BGRA8, 128X128)
+[2021.03.12-17.51.11:484][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TwinStickExampleMap'.
+[2021.03.12-17.51.11:486][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2021.03.12-17.51.11:500][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.12-17.51.11:506][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.03.12-17.51.11:506][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.12-17.51.11:506][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2021.03.12-17.51.11:507][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 0.115
+[2021.03.12-17.51.11:509][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.809
+[2021.03.12-17.51.11:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-17.51.11:689][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-17.51.11:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-17.51.11:703][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-17.51.11:718][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0109 seconds. Added 3608 classes and 861 folders.
+[2021.03.12-17.51.11:720][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.12-17.51.11:722][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.12-17.51.11:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.12-17.51.11:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.03.12-17.51.11:723][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.12-17.51.11:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.12-17.51.11:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.12-17.51.11:724][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.12-17.51.11:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:724][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.12-17.51.11:724][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.03.12-17.51.11:725][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.12-17.51.11:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.12-17.51.11:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.12-17.51.11:726][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.12-17.51.11:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.12-17.51.11:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.03.12-17.51.11:727][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.12-17.51.11:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.12-17.51.11:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.12-17.51.11:728][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.12-17.51.11:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.12-17.51.11:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.03.12-17.51.11:728][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.12-17.51.11:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.12-17.51.11:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.03.12-17.51.11:729][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.12-17.51.11:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.12-17.51.11:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.03.12-17.51.11:730][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.12-17.51.11:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.12-17.51.11:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.12-17.51.11:731][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.12-17.51.11:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.12-17.51.11:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.03.12-17.51.11:732][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.12-17.51.11:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.12-17.51.11:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.03.12-17.51.11:732][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.12-17.51.11:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.12-17.51.11:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.03.12-17.51.11:733][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.12-17.51.11:733][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:733][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.12-17.51.11:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.03.12-17.51.11:734][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.12-17.51.11:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.12-17.51.11:734][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.03.12-17.51.11:735][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.12-17.51.11:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.12-17.51.11:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.03.12-17.51.11:736][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.12-17.51.11:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.12-17.51.11:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.03.12-17.51.11:737][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.12-17.51.11:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.12-17.51.11:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.03.12-17.51.11:737][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.12-17.51.11:738][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:738][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.12-17.51.11:738][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.03.12-17.51.11:738][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.12-17.51.11:738][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:739][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.12-17.51.11:739][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.03.12-17.51.11:739][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.12-17.51.11:739][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:739][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.12-17.51.11:739][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.03.12-17.51.11:740][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.12-17.51.11:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.12-17.51.11:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.03.12-17.51.11:741][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.12-17.51.11:741][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:741][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.12-17.51.11:741][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.03.12-17.51.11:742][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.12-17.51.11:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.12-17.51.11:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.03.12-17.51.11:743][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.12-17.51.11:743][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:743][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.12-17.51.11:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.03.12-17.51.11:743][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.12-17.51.11:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.12-17.51.11:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.12-17.51.11:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.03.12-17.51.11:791][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.12-17.51.11:792][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.03.12-17.51.11:837][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.12-17.51.11:840][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.12-17.51.11:845][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.12-17.51.11:981][  0]LogRenderer: Reallocating scene render targets to support 1072x456 Format 10 NumSamples 1 (Frame:1).
+[2021.03.12-17.51.12:136][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.12-17.51.12:136][  0]LogLoad: (Engine Initialization) Total time: 8.44 seconds
+[2021.03.12-17.51.12:136][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.12-17.51.12:136][  0]LogInit: First time updating LLM stats...
+[2021.03.12-17.51.12:173][  0]LogAssetRegistry: Asset discovery search completed in 4.5410 seconds
+[2021.03.12-17.51.12:175][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.03.12-17.51.12:175][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.12-17.51.33:411][340]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Source/DroneMadness/DroneMadnessPawn.h'
+[2021.03.12-17.51.33:607][340]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Marek/Documents/Unreal Projects/New folder/DroneMadness/Source/DroneMadness/DroneMadnessPawn.cpp'
+[2021.03.12-17.51.50:783][529]Cmd: EDIT COPY
+[2021.03.12-17.51.51:098][566]Cmd: EDIT PASTE
+[2021.03.12-17.51.54:911][  7]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-17.51.54:923][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-17.51.54:924][  7]PIE: New page: PIE session: TwinStickExampleMap (12 Mar 2021, 19:51:54)
+[2021.03.12-17.51.54:926][  7]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.12-17.51.54:928][  7]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.12-17.51.54:929][  7]LogPlayLevel: Creating play world package: /Game/TwinStickCPP/Maps/UEDPIE_0_TwinStickExampleMap
+[2021.03.12-17.51.54:942][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013463s)
+[2021.03.12-17.51.54:944][  7]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2021.03.12-17.51.54:944][  7]LogPlayLevel: PIE: World Init took: (0.001611s)
+[2021.03.12-17.51.54:944][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickCPP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickCPP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.015534s)
+[2021.03.12-17.51.54:964][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.03.12-17.51.54:965][  7]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.12-17.51.54:965][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-17.51.54:965][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-17.51.54:965][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-17.51.54:965][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-17.51.54:966][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-17.51.54:966][  7]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-17.51.54:966][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-17.51.54:966][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-17.51.54:966][  7]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-17.51.54:966][  7]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-17.51.54:972][  7]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-17.51.54:972][  7]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-17.51.55:006][  7]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.03.12-17.51.55:007][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-17.51.55:007][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-17.51.55:007][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-17.51.55:008][  7]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-17.51.55:008][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-17.51.55:008][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.12-17.51.55:026][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-17.51.55:027][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-17.51.55:027][  7]LogInit: FAudioDevice initialized.
+[2021.03.12-17.51.55:027][  7]LogAudio: Display: Audio Device (ID: 2) registered with world 'TwinStickExampleMap'.
+[2021.03.12-17.51.55:043][  7]LogLoad: Game class is 'DroneMadnessGameMode'
+[2021.03.12-17.51.55:045][  7]LogWorld: Bringing World /Game/TwinStickCPP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2021.03.12-18.51.55
+[2021.03.12-17.51.55:045][  7]LogWorld: Bringing up level for play took: 0.001853
+[2021.03.12-17.51.55:046][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.03.12-17.51.55:050][  7]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.12-17.51.55:050][  7]PIE: Server logged in
+[2021.03.12-17.51.55:052][  7]PIE: Play in editor total start time 0.13 seconds.
+[2021.03.12-17.51.55:914][104]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_0
+[2021.03.12-17.51.55:914][104]LogTemp: Display: Add to array 25690
+[2021.03.12-17.51.55:914][104]LogTemp: Warning: INIT, DroneBP_C_0
+[2021.03.12-17.51.55:914][104]LogTemp: Display: AddDynamic(DroneBP_C_0,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.51.55:914][104]LogTemp: Display: AddDynamic(DroneBP_C_0, &ADrone::NewCommand, 25690
+[2021.03.12-17.51.55:915][104]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_1
+[2021.03.12-17.51.55:915][104]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.55:915][104]LogTemp: Warning: INIT, DroneBP_C_1
+[2021.03.12-17.51.55:915][104]LogTemp: Display: AddDynamic(DroneBP_C_1,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.55:915][104]LogTemp: Display: AddDynamic(DroneBP_C_1, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.56:914][224]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_2
+[2021.03.12-17.51.56:914][224]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.56:914][224]LogTemp: Warning: INIT, DroneBP_C_2
+[2021.03.12-17.51.56:914][224]LogTemp: Display: AddDynamic(DroneBP_C_2,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.56:914][224]LogTemp: Display: AddDynamic(DroneBP_C_2, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.56:915][224]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_3
+[2021.03.12-17.51.56:915][224]LogTemp: Display: Add to array 25690
+[2021.03.12-17.51.56:915][224]LogTemp: Warning: INIT, DroneBP_C_3
+[2021.03.12-17.51.56:915][224]LogTemp: Display: AddDynamic(DroneBP_C_3,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.51.56:915][224]LogTemp: Display: AddDynamic(DroneBP_C_3, &ADrone::NewCommand, 25690
+[2021.03.12-17.51.56:916][224]LogTemp: Warning: OnActorBeginOverlap, HeavyDroneBP_C_0
+[2021.03.12-17.51.56:916][224]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.56:916][224]LogTemp: Warning: INIT, HeavyDroneBP_C_0
+[2021.03.12-17.51.56:916][224]LogTemp: Display: AddDynamic(HeavyDroneBP_C_0,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.56:916][224]LogTemp: Display: AddDynamic(HeavyDroneBP_C_0, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.56:917][224]LogTemp: Warning: OnActorBeginOverlap, HeavyDroneBP_C_1
+[2021.03.12-17.51.56:917][224]LogTemp: Display: Add to array 25690
+[2021.03.12-17.51.56:917][224]LogTemp: Warning: INIT, HeavyDroneBP_C_1
+[2021.03.12-17.51.56:917][224]LogTemp: Display: AddDynamic(HeavyDroneBP_C_1,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.51.56:917][224]LogTemp: Display: AddDynamic(HeavyDroneBP_C_1, &ADrone::NewCommand, 25690
+[2021.03.12-17.51.57:917][344]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_4
+[2021.03.12-17.51.57:917][344]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.57:917][344]LogTemp: Warning: INIT, DroneBP_C_4
+[2021.03.12-17.51.57:917][344]LogTemp: Display: AddDynamic(DroneBP_C_4,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.57:917][344]LogTemp: Display: AddDynamic(DroneBP_C_4, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.57:917][344]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_5
+[2021.03.12-17.51.57:918][344]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.57:918][344]LogTemp: Warning: INIT, DroneBP_C_5
+[2021.03.12-17.51.57:918][344]LogTemp: Display: AddDynamic(DroneBP_C_5,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.57:918][344]LogTemp: Display: AddDynamic(DroneBP_C_5, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.57:918][344]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_6
+[2021.03.12-17.51.57:918][344]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.57:919][344]LogTemp: Warning: INIT, DroneBP_C_6
+[2021.03.12-17.51.57:919][344]LogTemp: Display: AddDynamic(DroneBP_C_6,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.57:919][344]LogTemp: Display: AddDynamic(DroneBP_C_6, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.57:919][344]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_7
+[2021.03.12-17.51.57:919][344]LogTemp: Display: Add to array 25690
+[2021.03.12-17.51.57:919][344]LogTemp: Warning: INIT, DroneBP_C_7
+[2021.03.12-17.51.57:919][344]LogTemp: Display: AddDynamic(DroneBP_C_7,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.51.57:920][344]LogTemp: Display: AddDynamic(DroneBP_C_7, &ADrone::NewCommand, 25690
+[2021.03.12-17.51.57:920][344]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_8
+[2021.03.12-17.51.57:920][344]LogTemp: Display: Add to array 25690
+[2021.03.12-17.51.57:920][344]LogTemp: Warning: INIT, DroneBP_C_8
+[2021.03.12-17.51.57:920][344]LogTemp: Display: AddDynamic(DroneBP_C_8,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.51.57:921][344]LogTemp: Display: AddDynamic(DroneBP_C_8, &ADrone::NewCommand, 25690
+[2021.03.12-17.51.57:921][344]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_9
+[2021.03.12-17.51.57:921][344]LogTemp: Display: Add to array 25690
+[2021.03.12-17.51.57:921][344]LogTemp: Warning: INIT, DroneBP_C_9
+[2021.03.12-17.51.57:921][344]LogTemp: Display: AddDynamic(DroneBP_C_9,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.51.57:921][344]LogTemp: Display: AddDynamic(DroneBP_C_9, &ADrone::NewCommand, 25690
+[2021.03.12-17.51.58:169][374]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_2
+[2021.03.12-17.51.58:170][374]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.58:170][374]LogTemp: Display: RemoveDynamic(DroneBP_C_2,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:170][374]LogTemp: Display: RemoveDynamic(DroneBP_C_2,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:561][421]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_3
+[2021.03.12-17.51.58:562][421]LogTemp: Display: RemoveDynamic(DroneBP_C_3,  &ADrone::NewCommand, 25690
+[2021.03.12-17.51.58:562][421]LogTemp: Display: AddDynamic(DroneBP_C_3, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:562][421]LogTemp: Display: AddDynamic(DroneBP_C_3,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:562][421]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.58:627][429]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_2
+[2021.03.12-17.51.58:627][429]LogTemp: Display: AddDynamic(DroneBP_C_2, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:628][429]LogTemp: Display: AddDynamic(DroneBP_C_2,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:628][429]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.58:728][441]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_2
+[2021.03.12-17.51.58:728][441]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.58:728][441]LogTemp: Display: RemoveDynamic(DroneBP_C_2,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:728][441]LogTemp: Display: RemoveDynamic(DroneBP_C_2,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:769][446]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_3
+[2021.03.12-17.51.58:770][446]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.58:770][446]LogTemp: Display: RemoveDynamic(DroneBP_C_3,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:770][446]LogTemp: Display: RemoveDynamic(DroneBP_C_3,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:770][446]LogTemp: Display: AddDynamic(DroneBP_C_3, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:828][453]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_7
+[2021.03.12-17.51.58:828][453]LogTemp: Display: RemoveDynamic(DroneBP_C_7,  &ADrone::NewCommand, 25690
+[2021.03.12-17.51.58:828][453]LogTemp: Display: AddDynamic(DroneBP_C_7, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:828][453]LogTemp: Display: AddDynamic(DroneBP_C_7,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:828][453]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.58:829][453]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_8
+[2021.03.12-17.51.58:829][453]LogTemp: Display: RemoveDynamic(DroneBP_C_8,  &ADrone::NewCommand, 25690
+[2021.03.12-17.51.58:829][453]LogTemp: Display: AddDynamic(DroneBP_C_8, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:829][453]LogTemp: Display: AddDynamic(DroneBP_C_8,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:829][453]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.58:829][453]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_9
+[2021.03.12-17.51.58:830][453]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::NewCommand, 25690
+[2021.03.12-17.51.58:830][453]LogTemp: Display: AddDynamic(DroneBP_C_9, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:830][453]LogTemp: Display: AddDynamic(DroneBP_C_9,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:830][453]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.58:844][455]LogTemp: Warning: OnActorBeginOverlap, HeavyDroneBP_C_1
+[2021.03.12-17.51.58:844][455]LogTemp: Display: RemoveDynamic(HeavyDroneBP_C_1,  &ADrone::NewCommand, 25690
+[2021.03.12-17.51.58:845][455]LogTemp: Display: AddDynamic(HeavyDroneBP_C_1, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:845][455]LogTemp: Display: AddDynamic(HeavyDroneBP_C_1,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:845][455]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.58:861][457]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_1
+[2021.03.12-17.51.58:861][457]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.58:861][457]LogTemp: Display: RemoveDynamic(DroneBP_C_1,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:861][457]LogTemp: Display: RemoveDynamic(DroneBP_C_1,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:920][464]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_10
+[2021.03.12-17.51.58:920][464]LogTemp: Display: Add to array 25690
+[2021.03.12-17.51.58:920][464]LogTemp: Warning: INIT, DroneBP_C_10
+[2021.03.12-17.51.58:920][464]LogTemp: Display: AddDynamic(DroneBP_C_10,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.51.58:920][464]LogTemp: Display: AddDynamic(DroneBP_C_10, &ADrone::NewCommand, 25690
+[2021.03.12-17.51.58:921][464]LogTemp: Warning: OnActorBeginOverlap, HeavyDroneBP_C_2
+[2021.03.12-17.51.58:921][464]LogTemp: Display: Add to array 25690
+[2021.03.12-17.51.58:921][464]LogTemp: Warning: INIT, HeavyDroneBP_C_2
+[2021.03.12-17.51.58:921][464]LogTemp: Display: AddDynamic(HeavyDroneBP_C_2,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.51.58:921][464]LogTemp: Display: AddDynamic(HeavyDroneBP_C_2, &ADrone::NewCommand, 25690
+[2021.03.12-17.51.58:921][464]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_11
+[2021.03.12-17.51.58:922][464]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.58:922][464]LogTemp: Warning: INIT, DroneBP_C_11
+[2021.03.12-17.51.58:922][464]LogTemp: Display: AddDynamic(DroneBP_C_11,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:922][464]LogTemp: Display: AddDynamic(DroneBP_C_11, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:922][464]LogTemp: Warning: OnActorBeginOverlap, HeavyDroneBP_C_3
+[2021.03.12-17.51.58:922][464]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.58:922][464]LogTemp: Warning: INIT, HeavyDroneBP_C_3
+[2021.03.12-17.51.58:923][464]LogTemp: Display: AddDynamic(HeavyDroneBP_C_3,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:923][464]LogTemp: Display: AddDynamic(HeavyDroneBP_C_3, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:978][471]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_7
+[2021.03.12-17.51.58:978][471]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.58:978][471]LogTemp: Display: RemoveDynamic(DroneBP_C_7,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:978][471]LogTemp: Display: RemoveDynamic(DroneBP_C_7,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:979][471]LogTemp: Display: AddDynamic(DroneBP_C_7, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:979][471]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_8
+[2021.03.12-17.51.58:979][471]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.58:979][471]LogTemp: Display: RemoveDynamic(DroneBP_C_8,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:979][471]LogTemp: Display: RemoveDynamic(DroneBP_C_8,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:979][471]LogTemp: Display: AddDynamic(DroneBP_C_8, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:979][471]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_9
+[2021.03.12-17.51.58:979][471]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.58:979][471]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:979][471]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:980][471]LogTemp: Display: AddDynamic(DroneBP_C_9, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:995][473]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_4
+[2021.03.12-17.51.58:995][473]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.58:995][473]LogTemp: Display: RemoveDynamic(DroneBP_C_4,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:995][473]LogTemp: Display: RemoveDynamic(DroneBP_C_4,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:995][473]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_5
+[2021.03.12-17.51.58:996][473]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.58:996][473]LogTemp: Display: RemoveDynamic(DroneBP_C_5,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:996][473]LogTemp: Display: RemoveDynamic(DroneBP_C_5,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.58:996][473]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_6
+[2021.03.12-17.51.58:996][473]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.58:996][473]LogTemp: Display: RemoveDynamic(DroneBP_C_6,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.58:996][473]LogTemp: Display: RemoveDynamic(DroneBP_C_6,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.59:070][482]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_0
+[2021.03.12-17.51.59:071][482]LogTemp: Display: Remove from array 25690
+[2021.03.12-17.51.59:071][482]LogTemp: Display: RemoveDynamic(DroneBP_C_0,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.51.59:071][482]LogTemp: Display: RemoveDynamic(DroneBP_C_0,  &ADrone::NewCommand, 25690
+[2021.03.12-17.51.59:196][497]LogTemp: Warning: OnActorEndOverlap, HeavyDroneBP_C_1
+[2021.03.12-17.51.59:196][497]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.59:196][497]LogTemp: Display: RemoveDynamic(HeavyDroneBP_C_1,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.59:196][497]LogTemp: Display: RemoveDynamic(HeavyDroneBP_C_1,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.59:196][497]LogTemp: Display: AddDynamic(HeavyDroneBP_C_1, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.59:396][521]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_2
+[2021.03.12-17.51.59:396][521]LogTemp: Display: AddDynamic(DroneBP_C_2, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.59:396][521]LogTemp: Display: AddDynamic(DroneBP_C_2,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.59:397][521]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.59:537][538]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_0
+[2021.03.12-17.51.59:537][538]LogTemp: Display: AddDynamic(DroneBP_C_0, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.59:538][538]LogTemp: Display: AddDynamic(DroneBP_C_0,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.59:538][538]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.59:914][583]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_12
+[2021.03.12-17.51.59:914][583]LogTemp: Display: Add to array 25690
+[2021.03.12-17.51.59:914][583]LogTemp: Warning: INIT, DroneBP_C_12
+[2021.03.12-17.51.59:914][583]LogTemp: Display: AddDynamic(DroneBP_C_12,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.51.59:914][583]LogTemp: Display: AddDynamic(DroneBP_C_12, &ADrone::NewCommand, 25690
+[2021.03.12-17.51.59:915][583]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_13
+[2021.03.12-17.51.59:915][583]LogTemp: Display: Add to array 25687
+[2021.03.12-17.51.59:915][583]LogTemp: Warning: INIT, DroneBP_C_13
+[2021.03.12-17.51.59:915][583]LogTemp: Display: AddDynamic(DroneBP_C_13,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.59:915][583]LogTemp: Display: AddDynamic(DroneBP_C_13, &ADrone::NewCommand, 25687
+[2021.03.12-17.51.59:921][584]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_2
+[2021.03.12-17.51.59:921][584]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.59:922][584]LogTemp: Display: RemoveDynamic(DroneBP_C_2,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.59:922][584]LogTemp: Display: RemoveDynamic(DroneBP_C_2,  &ADrone::NewCommand, 25687
+[2021.03.12-17.51.59:988][592]LogTemp: Warning: OnActorEndOverlap, HeavyDroneBP_C_0
+[2021.03.12-17.51.59:988][592]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.51.59:988][592]LogTemp: Display: RemoveDynamic(HeavyDroneBP_C_0,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.51.59:988][592]LogTemp: Display: RemoveDynamic(HeavyDroneBP_C_0,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:038][598]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_0
+[2021.03.12-17.52.00:038][598]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.00:038][598]LogTemp: Display: RemoveDynamic(DroneBP_C_0,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:038][598]LogTemp: Display: RemoveDynamic(DroneBP_C_0,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:081][603]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_3
+[2021.03.12-17.52.00:081][603]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.00:081][603]LogTemp: Display: RemoveDynamic(DroneBP_C_3,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:081][603]LogTemp: Display: RemoveDynamic(DroneBP_C_3,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:165][613]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_7
+[2021.03.12-17.52.00:165][613]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.00:165][613]LogTemp: Display: RemoveDynamic(DroneBP_C_7,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:165][613]LogTemp: Display: RemoveDynamic(DroneBP_C_7,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:166][613]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_8
+[2021.03.12-17.52.00:166][613]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.00:166][613]LogTemp: Display: RemoveDynamic(DroneBP_C_8,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:166][613]LogTemp: Display: RemoveDynamic(DroneBP_C_8,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:166][613]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_9
+[2021.03.12-17.52.00:166][613]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.00:166][613]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:166][613]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:290][628]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_11
+[2021.03.12-17.52.00:290][628]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.00:290][628]LogTemp: Display: RemoveDynamic(DroneBP_C_11,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:290][628]LogTemp: Display: RemoveDynamic(DroneBP_C_11,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:374][638]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_11
+[2021.03.12-17.52.00:374][638]LogTemp: Display: AddDynamic(DroneBP_C_11, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:375][638]LogTemp: Display: AddDynamic(DroneBP_C_11,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:375][638]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.00:549][659]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_1
+[2021.03.12-17.52.00:549][659]LogTemp: Display: AddDynamic(DroneBP_C_1, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:549][659]LogTemp: Display: AddDynamic(DroneBP_C_1,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:549][659]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.00:753][683]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_9
+[2021.03.12-17.52.00:754][683]LogTemp: Display: AddDynamic(DroneBP_C_9, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:754][683]LogTemp: Display: AddDynamic(DroneBP_C_9,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:754][683]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.00:803][689]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_1
+[2021.03.12-17.52.00:803][689]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.00:803][689]LogTemp: Display: RemoveDynamic(DroneBP_C_1,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:804][689]LogTemp: Display: RemoveDynamic(DroneBP_C_1,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:898][700]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_11
+[2021.03.12-17.52.00:898][700]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.00:898][700]LogTemp: Display: RemoveDynamic(DroneBP_C_11,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:898][700]LogTemp: Display: RemoveDynamic(DroneBP_C_11,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:914][702]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_14
+[2021.03.12-17.52.00:914][702]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.00:914][702]LogTemp: Warning: INIT, DroneBP_C_14
+[2021.03.12-17.52.00:915][702]LogTemp: Display: AddDynamic(DroneBP_C_14,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:915][702]LogTemp: Display: AddDynamic(DroneBP_C_14, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:915][702]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_15
+[2021.03.12-17.52.00:915][702]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.00:915][702]LogTemp: Warning: INIT, DroneBP_C_15
+[2021.03.12-17.52.00:916][702]LogTemp: Display: AddDynamic(DroneBP_C_15,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:916][702]LogTemp: Display: AddDynamic(DroneBP_C_15, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:916][702]LogTemp: Warning: OnActorBeginOverlap, HeavyDroneBP_C_4
+[2021.03.12-17.52.00:916][702]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.00:917][702]LogTemp: Warning: INIT, HeavyDroneBP_C_4
+[2021.03.12-17.52.00:917][702]LogTemp: Display: AddDynamic(HeavyDroneBP_C_4,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:917][702]LogTemp: Display: AddDynamic(HeavyDroneBP_C_4, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:917][702]LogTemp: Warning: OnActorBeginOverlap, HeavyDroneBP_C_5
+[2021.03.12-17.52.00:917][702]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.00:917][702]LogTemp: Warning: INIT, HeavyDroneBP_C_5
+[2021.03.12-17.52.00:917][702]LogTemp: Display: AddDynamic(HeavyDroneBP_C_5,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.00:918][702]LogTemp: Display: AddDynamic(HeavyDroneBP_C_5, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.00:918][702]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_16
+[2021.03.12-17.52.00:918][702]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.00:918][702]LogTemp: Warning: INIT, DroneBP_C_16
+[2021.03.12-17.52.00:918][702]LogTemp: Display: AddDynamic(DroneBP_C_16,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.00:918][702]LogTemp: Display: AddDynamic(DroneBP_C_16, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.00:919][702]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_17
+[2021.03.12-17.52.00:919][702]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.00:919][702]LogTemp: Warning: INIT, DroneBP_C_17
+[2021.03.12-17.52.00:919][702]LogTemp: Display: AddDynamic(DroneBP_C_17,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.00:919][702]LogTemp: Display: AddDynamic(DroneBP_C_17, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.00:920][702]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_18
+[2021.03.12-17.52.00:920][702]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.00:920][702]LogTemp: Warning: INIT, DroneBP_C_18
+[2021.03.12-17.52.00:920][702]LogTemp: Display: AddDynamic(DroneBP_C_18,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.00:920][702]LogTemp: Display: AddDynamic(DroneBP_C_18, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.00:921][702]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_19
+[2021.03.12-17.52.00:921][702]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.00:921][702]LogTemp: Warning: INIT, DroneBP_C_19
+[2021.03.12-17.52.00:921][702]LogTemp: Display: AddDynamic(DroneBP_C_19,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.00:921][702]LogTemp: Display: AddDynamic(DroneBP_C_19, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.01:114][721]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_9
+[2021.03.12-17.52.01:115][721]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.01:115][721]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.01:115][721]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.01:299][739]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_11
+[2021.03.12-17.52.01:299][739]LogTemp: Display: AddDynamic(DroneBP_C_11, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.01:299][739]LogTemp: Display: AddDynamic(DroneBP_C_11,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.01:299][739]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.01:505][759]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_11
+[2021.03.12-17.52.01:505][759]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.01:505][759]LogTemp: Display: RemoveDynamic(DroneBP_C_11,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.01:505][759]LogTemp: Display: RemoveDynamic(DroneBP_C_11,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.01:916][800]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_20
+[2021.03.12-17.52.01:916][800]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.01:916][800]LogTemp: Warning: INIT, DroneBP_C_20
+[2021.03.12-17.52.01:916][800]LogTemp: Display: AddDynamic(DroneBP_C_20,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.01:917][800]LogTemp: Display: AddDynamic(DroneBP_C_20, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.01:917][800]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_21
+[2021.03.12-17.52.01:917][800]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.01:917][800]LogTemp: Warning: INIT, DroneBP_C_21
+[2021.03.12-17.52.01:917][800]LogTemp: Display: AddDynamic(DroneBP_C_21,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.01:918][800]LogTemp: Display: AddDynamic(DroneBP_C_21, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.02:256][832]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_9
+[2021.03.12-17.52.02:256][832]LogTemp: Display: AddDynamic(DroneBP_C_9, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.02:256][832]LogTemp: Display: AddDynamic(DroneBP_C_9,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.02:256][832]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.02:376][843]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_16
+[2021.03.12-17.52.02:376][843]LogTemp: Display: Remove from array 25690
+[2021.03.12-17.52.02:376][843]LogTemp: Display: RemoveDynamic(DroneBP_C_16,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.02:376][843]LogTemp: Display: RemoveDynamic(DroneBP_C_16,  &ADrone::NewCommand, 25690
+[2021.03.12-17.52.02:376][843]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_18
+[2021.03.12-17.52.02:376][843]LogTemp: Display: Remove from array 25690
+[2021.03.12-17.52.02:376][843]LogTemp: Display: RemoveDynamic(DroneBP_C_18,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.02:377][843]LogTemp: Display: RemoveDynamic(DroneBP_C_18,  &ADrone::NewCommand, 25690
+[2021.03.12-17.52.02:377][843]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_19
+[2021.03.12-17.52.02:377][843]LogTemp: Display: Remove from array 25690
+[2021.03.12-17.52.02:377][843]LogTemp: Display: RemoveDynamic(DroneBP_C_19,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.02:377][843]LogTemp: Display: RemoveDynamic(DroneBP_C_19,  &ADrone::NewCommand, 25690
+[2021.03.12-17.52.02:584][863]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_9
+[2021.03.12-17.52.02:584][863]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.02:584][863]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.02:584][863]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.02:668][871]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_10
+[2021.03.12-17.52.02:668][871]LogTemp: Display: RemoveDynamic(DroneBP_C_10,  &ADrone::NewCommand, 25690
+[2021.03.12-17.52.02:668][871]LogTemp: Display: AddDynamic(DroneBP_C_10, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.02:668][871]LogTemp: Display: AddDynamic(DroneBP_C_10,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.02:668][871]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.02:732][877]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_10
+[2021.03.12-17.52.02:732][877]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.02:732][877]LogTemp: Display: RemoveDynamic(DroneBP_C_10,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.02:732][877]LogTemp: Display: RemoveDynamic(DroneBP_C_10,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.02:732][877]LogTemp: Display: AddDynamic(DroneBP_C_10, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.02:764][880]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_4
+[2021.03.12-17.52.02:764][880]LogTemp: Display: AddDynamic(DroneBP_C_4, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.02:764][880]LogTemp: Display: AddDynamic(DroneBP_C_4,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.02:764][880]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.02:785][882]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_14
+[2021.03.12-17.52.02:785][882]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.02:785][882]LogTemp: Display: RemoveDynamic(DroneBP_C_14,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.02:785][882]LogTemp: Display: RemoveDynamic(DroneBP_C_14,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.02:786][882]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_15
+[2021.03.12-17.52.02:786][882]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.02:786][882]LogTemp: Display: RemoveDynamic(DroneBP_C_15,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.02:786][882]LogTemp: Display: RemoveDynamic(DroneBP_C_15,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.02:845][888]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_18
+[2021.03.12-17.52.02:845][888]LogTemp: Display: AddDynamic(DroneBP_C_18, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.02:845][888]LogTemp: Display: AddDynamic(DroneBP_C_18,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.02:845][888]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.02:925][895]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_22
+[2021.03.12-17.52.02:925][895]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.02:926][895]LogTemp: Warning: INIT, DroneBP_C_22
+[2021.03.12-17.52.02:926][895]LogTemp: Display: AddDynamic(DroneBP_C_22,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.02:926][895]LogTemp: Display: AddDynamic(DroneBP_C_22, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.02:926][895]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_23
+[2021.03.12-17.52.02:926][895]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.02:926][895]LogTemp: Warning: INIT, DroneBP_C_23
+[2021.03.12-17.52.02:926][895]LogTemp: Display: AddDynamic(DroneBP_C_23,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.02:927][895]LogTemp: Display: AddDynamic(DroneBP_C_23, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.02:927][895]LogTemp: Warning: OnActorBeginOverlap, HeavyDroneBP_C_6
+[2021.03.12-17.52.02:927][895]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.02:927][895]LogTemp: Warning: INIT, HeavyDroneBP_C_6
+[2021.03.12-17.52.02:927][895]LogTemp: Display: AddDynamic(HeavyDroneBP_C_6,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.02:927][895]LogTemp: Display: AddDynamic(HeavyDroneBP_C_6, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.02:928][895]LogTemp: Warning: OnActorBeginOverlap, HeavyDroneBP_C_7
+[2021.03.12-17.52.02:928][895]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.02:928][895]LogTemp: Warning: INIT, HeavyDroneBP_C_7
+[2021.03.12-17.52.02:928][895]LogTemp: Display: AddDynamic(HeavyDroneBP_C_7,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.02:928][895]LogTemp: Display: AddDynamic(HeavyDroneBP_C_7, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:001][902]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_18
+[2021.03.12-17.52.03:001][902]LogTemp: Display: Remove from array 25690
+[2021.03.12-17.52.03:001][902]LogTemp: Display: RemoveDynamic(DroneBP_C_18,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.03:001][902]LogTemp: Display: RemoveDynamic(DroneBP_C_18,  &ADrone::NewCommand, 25690
+[2021.03.12-17.52.03:142][915]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_17
+[2021.03.12-17.52.03:142][915]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.03:142][915]LogTemp: Display: RemoveDynamic(DroneBP_C_17,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:142][915]LogTemp: Display: RemoveDynamic(DroneBP_C_17,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:153][916]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_12
+[2021.03.12-17.52.03:153][916]LogTemp: Display: Remove from array 25690
+[2021.03.12-17.52.03:153][916]LogTemp: Display: RemoveDynamic(DroneBP_C_12,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.03:153][916]LogTemp: Display: RemoveDynamic(DroneBP_C_12,  &ADrone::NewCommand, 25690
+[2021.03.12-17.52.03:228][923]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_20
+[2021.03.12-17.52.03:228][923]LogTemp: Display: Remove from array 25690
+[2021.03.12-17.52.03:229][923]LogTemp: Display: RemoveDynamic(DroneBP_C_20,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.03:229][923]LogTemp: Display: RemoveDynamic(DroneBP_C_20,  &ADrone::NewCommand, 25690
+[2021.03.12-17.52.03:260][926]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_14
+[2021.03.12-17.52.03:260][926]LogTemp: Display: AddDynamic(DroneBP_C_14, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:260][926]LogTemp: Display: AddDynamic(DroneBP_C_14,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:260][926]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.03:433][943]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_17
+[2021.03.12-17.52.03:433][943]LogTemp: Display: AddDynamic(DroneBP_C_17, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:434][943]LogTemp: Display: AddDynamic(DroneBP_C_17,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:434][943]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.03:474][947]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_9
+[2021.03.12-17.52.03:474][947]LogTemp: Display: AddDynamic(DroneBP_C_9, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:474][947]LogTemp: Display: AddDynamic(DroneBP_C_9,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:474][947]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.03:771][976]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_17
+[2021.03.12-17.52.03:771][976]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.03:771][976]LogTemp: Display: RemoveDynamic(DroneBP_C_17,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:771][976]LogTemp: Display: RemoveDynamic(DroneBP_C_17,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:803][979]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_14
+[2021.03.12-17.52.03:803][979]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.03:803][979]LogTemp: Display: RemoveDynamic(DroneBP_C_14,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:803][979]LogTemp: Display: RemoveDynamic(DroneBP_C_14,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:875][986]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_9
+[2021.03.12-17.52.03:875][986]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.03:875][986]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:875][986]LogTemp: Display: RemoveDynamic(DroneBP_C_9,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:899][988]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_10
+[2021.03.12-17.52.03:899][988]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.03:899][988]LogTemp: Display: RemoveDynamic(DroneBP_C_10,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:899][988]LogTemp: Display: RemoveDynamic(DroneBP_C_10,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:900][988]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_21
+[2021.03.12-17.52.03:900][988]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.03:900][988]LogTemp: Display: RemoveDynamic(DroneBP_C_21,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:900][988]LogTemp: Display: RemoveDynamic(DroneBP_C_21,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:923][990]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_24
+[2021.03.12-17.52.03:923][990]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.03:923][990]LogTemp: Warning: INIT, DroneBP_C_24
+[2021.03.12-17.52.03:923][990]LogTemp: Display: AddDynamic(DroneBP_C_24,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.03:924][990]LogTemp: Display: AddDynamic(DroneBP_C_24, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.03:924][990]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_25
+[2021.03.12-17.52.03:924][990]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.03:924][990]LogTemp: Warning: INIT, DroneBP_C_25
+[2021.03.12-17.52.03:924][990]LogTemp: Display: AddDynamic(DroneBP_C_25,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.03:925][990]LogTemp: Display: AddDynamic(DroneBP_C_25, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.03:925][990]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_26
+[2021.03.12-17.52.03:925][990]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.03:925][990]LogTemp: Warning: INIT, DroneBP_C_26
+[2021.03.12-17.52.03:926][990]LogTemp: Display: AddDynamic(DroneBP_C_26,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.03:926][990]LogTemp: Display: AddDynamic(DroneBP_C_26, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.03:926][990]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_27
+[2021.03.12-17.52.03:926][990]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.03:926][990]LogTemp: Warning: INIT, DroneBP_C_27
+[2021.03.12-17.52.03:927][990]LogTemp: Display: AddDynamic(DroneBP_C_27,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:927][990]LogTemp: Display: AddDynamic(DroneBP_C_27, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:927][990]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_28
+[2021.03.12-17.52.03:927][990]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.03:928][990]LogTemp: Warning: INIT, DroneBP_C_28
+[2021.03.12-17.52.03:928][990]LogTemp: Display: AddDynamic(DroneBP_C_28,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:928][990]LogTemp: Display: AddDynamic(DroneBP_C_28, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.03:928][990]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_29
+[2021.03.12-17.52.03:928][990]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.03:928][990]LogTemp: Warning: INIT, DroneBP_C_29
+[2021.03.12-17.52.03:929][990]LogTemp: Display: AddDynamic(DroneBP_C_29,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.03:929][990]LogTemp: Display: AddDynamic(DroneBP_C_29, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.04:195][ 14]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_15
+[2021.03.12-17.52.04:195][ 14]LogTemp: Display: AddDynamic(DroneBP_C_15, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.04:195][ 14]LogTemp: Display: AddDynamic(DroneBP_C_15,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.04:195][ 14]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.04:229][ 17]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_18
+[2021.03.12-17.52.04:229][ 17]LogTemp: Display: AddDynamic(DroneBP_C_18, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.04:229][ 17]LogTemp: Display: AddDynamic(DroneBP_C_18,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.04:229][ 17]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.04:342][ 27]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_10
+[2021.03.12-17.52.04:342][ 27]LogTemp: Display: AddDynamic(DroneBP_C_10, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.04:342][ 27]LogTemp: Display: AddDynamic(DroneBP_C_10,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.04:342][ 27]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.04:353][ 28]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_18
+[2021.03.12-17.52.04:353][ 28]LogTemp: Display: RemoveDynamic(DroneBP_C_18,  &ADrone::NewCommand, 25690
+[2021.03.12-17.52.04:353][ 28]LogTemp: Display: AddDynamic(DroneBP_C_18, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.04:353][ 28]LogTemp: Display: AddDynamic(DroneBP_C_18,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.04:354][ 28]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.04:440][ 36]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_18
+[2021.03.12-17.52.04:441][ 36]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.04:441][ 36]LogTemp: Display: RemoveDynamic(DroneBP_C_18,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.04:441][ 36]LogTemp: Display: RemoveDynamic(DroneBP_C_18,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.04:441][ 36]LogTemp: Display: AddDynamic(DroneBP_C_18, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.04:495][ 41]LogTemp: Warning: OnActorBeginOverlap, DroneBP_C_14
+[2021.03.12-17.52.04:495][ 41]LogTemp: Display: AddDynamic(DroneBP_C_14, &ADrone::NewCommand, 25687
+[2021.03.12-17.52.04:495][ 41]LogTemp: Display: AddDynamic(DroneBP_C_14,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.04:495][ 41]LogTemp: Display: Add to array 25687
+[2021.03.12-17.52.04:539][ 45]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_13
+[2021.03.12-17.52.04:540][ 45]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.04:540][ 45]LogTemp: Display: RemoveDynamic(DroneBP_C_13,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.04:540][ 45]LogTemp: Display: RemoveDynamic(DroneBP_C_13,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.04:550][ 46]LogTemp: Warning: OnActorBeginOverlap, HeavyDroneBP_C_0
+[2021.03.12-17.52.04:550][ 46]LogTemp: Display: AddDynamic(HeavyDroneBP_C_0, &ADrone::NewCommand, 25690
+[2021.03.12-17.52.04:550][ 46]LogTemp: Display: AddDynamic(HeavyDroneBP_C_0,  &ADrone::RemoveControl, 25690
+[2021.03.12-17.52.04:550][ 46]LogTemp: Display: Add to array 25690
+[2021.03.12-17.52.04:571][ 48]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_4
+[2021.03.12-17.52.04:572][ 48]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.04:572][ 48]LogTemp: Display: RemoveDynamic(DroneBP_C_4,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.04:572][ 48]LogTemp: Display: RemoveDynamic(DroneBP_C_4,  &ADrone::NewCommand, 25687
+[2021.03.12-17.52.04:572][ 48]LogTemp: Warning: OnActorEndOverlap, DroneBP_C_15
+[2021.03.12-17.52.04:572][ 48]LogTemp: Display: Remove from array 25687
+[2021.03.12-17.52.04:572][ 48]LogTemp: Display: RemoveDynamic(DroneBP_C_15,  &ADrone::RemoveControl, 25687
+[2021.03.12-17.52.04:572][ 48]LogTemp: Display: RemoveDynamic(DroneBP_C_15,  &ADrone::NewCommand, 25687

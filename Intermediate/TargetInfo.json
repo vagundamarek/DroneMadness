@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DroneMadness",
+			"Path": "C:\\Users\\Marek\\Documents\\Unreal Projects\\New folder\\DroneMadness\\Source\\DroneMadness.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DroneMadnessEditor",
+			"Path": "C:\\Users\\Marek\\Documents\\Unreal Projects\\New folder\\DroneMadness\\Source\\DroneMadnessEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

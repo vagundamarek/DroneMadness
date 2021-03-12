@@ -1,0 +1,46 @@
+﻿  Creating makefile for DroneMadnessEditor (no existing makefile)
+  Parsing headers for DroneMadnessEditor
+    Running UnrealHeaderTool "C:\Users\Marek\Documents\Unreal Projects\New folder\DroneMadness\DroneMadness.uproject" "C:\Users\Marek\Documents\Unreal Projects\New folder\DroneMadness\Intermediate\Build\Win64\DroneMadnessEditor\DebugGame\DroneMadnessEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Marek\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for DroneMadnessEditor in 3.9934065 seconds
+  Building DroneMadnessEditor...
+  Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 21 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  SharedPCH.Engine.NonOptimized.ShadowErrors.cpp (0:23.29 at +0:00)
+  DroneControl.cpp (0:01.28 at +0:23)
+  DroneMadnessProjectile.cpp (0:00.56 at +0:24)
+  Drone.gen.cpp (0:00.59 at +0:25)
+  DroneMadness.cpp (0:00.48 at +0:25)
+  Drone.cpp (0:00.61 at +0:26)
+  HeavyDrone.cpp (0:00.53 at +0:26)
+  DroneMadness.init.gen.cpp (0:00.53 at +0:27)
+  DroneControl.gen.cpp (0:00.60 at +0:27)
+  HeavyDrone.gen.cpp (0:00.67 at +0:28)
+  DroneMadnessGameMode.gen.cpp (0:00.70 at +0:29)
+  DroneMadnessProjectile.gen.cpp (0:00.70 at +0:29)
+  DroneSpawner.gen.cpp (0:00.59 at +0:30)
+  DroneSpawner.cpp (0:00.87 at +0:31)
+  DroneMadnessPawn.gen.cpp (0:00.75 at +0:32)
+  DroneMadnessGameMode.cpp (0:00.68 at +0:32)
+  DroneMadnessPawn.cpp (0:00.90 at +0:33)
+  Default.rc2 (0:00.10 at +0:34)
+  UE4Editor-DroneMadness-Win64-DebugGame.dll (0:00.56 at +0:34)
+     Creating library C:\Users\Marek\Documents\Unreal Projects\New folder\DroneMadness\Intermediate\Build\Win64\UE4Editor\DebugGame\DroneMadness\UE4Editor-DroneMadness-Win64-DebugGame.suppressed.lib and object C:\Users\Marek\Documents\Unreal Projects\New folder\DroneMadness\Intermediate\Build\Win64\UE4Editor\DebugGame\DroneMadness\UE4Editor-DroneMadness-Win64-DebugGame.suppressed.exp
+  UE4Editor-DroneMadness-Win64-DebugGame.lib (0:00.09 at +0:35)
+     Creating library C:\Users\Marek\Documents\Unreal Projects\New folder\DroneMadness\Intermediate\Build\Win64\UE4Editor\DebugGame\DroneMadness\UE4Editor-DroneMadness-Win64-DebugGame.lib and object C:\Users\Marek\Documents\Unreal Projects\New folder\DroneMadness\Intermediate\Build\Win64\UE4Editor\DebugGame\DroneMadness\UE4Editor-DroneMadness-Win64-DebugGame.exp
+  DroneMadnessEditor-Win64-DebugGame.target (0:00.18 at +0:35)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 35.53 seconds
+  Total execution time: 41.87 seconds

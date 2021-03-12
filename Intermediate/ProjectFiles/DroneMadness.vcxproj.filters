@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DroneMadness.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{417105CB-A5E2-4F12-AE26-3AD0A6294962}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DroneMadness.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DroneMadnessEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{046025EE-B3EE-43C0-8125-D8C9C4078223}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DroneMadness">
+      <UniqueIdentifier>{64B8C71A-48F2-4A0D-9E37-82D30D9F33DA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DroneMadness\Drone.cpp">
+      <Filter>Source\DroneMadness</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneMadness\Drone.h">
+      <Filter>Source\DroneMadness</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneMadness\DroneControl.cpp">
+      <Filter>Source\DroneMadness</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneMadness\DroneControl.h">
+      <Filter>Source\DroneMadness</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\DroneMadness\DroneMadness.Build.cs">
+      <Filter>Source\DroneMadness</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DroneMadness\DroneMadness.cpp">
+      <Filter>Source\DroneMadness</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneMadness\DroneMadness.h">
+      <Filter>Source\DroneMadness</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneMadness\DroneMadnessGameMode.cpp">
+      <Filter>Source\DroneMadness</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneMadness\DroneMadnessGameMode.h">
+      <Filter>Source\DroneMadness</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneMadness\DroneMadnessPawn.cpp">
+      <Filter>Source\DroneMadness</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneMadness\DroneMadnessPawn.h">
+      <Filter>Source\DroneMadness</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneMadness\DroneMadnessProjectile.cpp">
+      <Filter>Source\DroneMadness</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneMadness\DroneMadnessProjectile.h">
+      <Filter>Source\DroneMadness</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneMadness\DroneSpawner.cpp">
+      <Filter>Source\DroneMadness</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneMadness\DroneSpawner.h">
+      <Filter>Source\DroneMadness</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneMadness\HeavyDrone.cpp">
+      <Filter>Source\DroneMadness</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneMadness\HeavyDrone.h">
+      <Filter>Source\DroneMadness</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
